@@ -1,0 +1,21 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  /* Default light/dark mode support */
+  background-color: #f8f9fa; 
+  color: #213547;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  justify-content: center;
+  min-width: 320px;
+  min-height: 100vh;
+  /* Ensure the background covers the whole screen */
+  background: linear-gradient(to bottom, #ffffff, #e3f2fd); 
+}
+
+#root {
+  width: 100%;
+}
