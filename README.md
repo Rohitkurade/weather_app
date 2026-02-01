@@ -2,8 +2,7 @@
 
 A responsive weather application built using **React**, **Vite**, and **Material UI** that displays real-time weather information for any city using the OpenWeatherMap API.
 
-<img width="1710" height="903" alt="Screenshot 2026-02-01 220820" src="https://github.com/user-attachments/assets/32170ed7-39f8-4887-b662-0bed3e5c066c" />
-<img width="1666" height="907" alt="Screenshot 2026-02-01 220833" src="https://github.com/user-attachments/assets/adbb4556-da93-4fb3-8ea8-b2c15ffa96b2" />
+
 
 ---
 
@@ -106,7 +105,8 @@ VITE_API_KEY=your_api_key_here
 ---
 
 ## 📸 Screenshots
-(Add screenshots of your application here)
+<img width="1710" height="903" alt="Screenshot 2026-02-01 220820" src="https://github.com/user-attachments/assets/32170ed7-39f8-4887-b662-0bed3e5c066c" />
+<img width="1666" height="907" alt="Screenshot 2026-02-01 220833" src="https://github.com/user-attachments/assets/adbb4556-da93-4fb3-8ea8-b2c15ffa96b2" />
 
 ---
 
